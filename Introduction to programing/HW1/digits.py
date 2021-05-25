@@ -1,9 +1,4 @@
-"""
-Student: Sarel Alush
-ID: 316373851
-Assignment no. 4
-Program: digits.py 
-"""
+
 
 
 def main():
