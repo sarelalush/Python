@@ -1,10 +1,3 @@
-"""
-Student: Sarel Alush
-ID: 316373851
-Assignment no. 1
-Program: maxSeries.py
-"""
-
 
 
 def main():
